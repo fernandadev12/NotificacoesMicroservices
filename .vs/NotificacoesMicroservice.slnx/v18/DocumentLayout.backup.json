@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\POS_TECH2\\NotificacoesMicroservices\\NotificacoesMicroservice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BF0821-005E-4ACF-9245-59E186268E56}|Notificacoes.Application\\Notificacoes.Application.csproj|c:\\projetos\\pos_tech2\\notificacoesmicroservices\\notificacoesmicroservice\\notificacoes.application\\dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BF0821-005E-4ACF-9245-59E186268E56}|Notificacoes.Application\\Notificacoes.Application.csproj|solutionrelative:notificacoes.application\\dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FE3CC3-6228-4328-B400-55CD42A98BD8}|Notificacoes.Domain\\Notificacoes.Domain.csproj|c:\\projetos\\pos_tech2\\notificacoesmicroservices\\notificacoesmicroservice\\notificacoes.domain\\entity\\outboxmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31FE3CC3-6228-4328-B400-55CD42A98BD8}|Notificacoes.Domain\\Notificacoes.Domain.csproj|solutionrelative:notificacoes.domain\\entity\\outboxmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FE3CC3-6228-4328-B400-55CD42A98BD8}|Notificacoes.Domain\\Notificacoes.Domain.csproj|c:\\projetos\\pos_tech2\\notificacoesmicroservices\\notificacoesmicroservice\\notificacoes.domain\\entity\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31FE3CC3-6228-4328-B400-55CD42A98BD8}|Notificacoes.Domain\\Notificacoes.Domain.csproj|solutionrelative:notificacoes.domain\\entity\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{889E46FC-932B-4799-A02E-843910CA73A3}|Notificacoes.Infra\\Notificacoes.Infra.csproj|c:\\projetos\\pos_tech2\\notificacoesmicroservices\\notificacoesmicroservice\\notificacoes.infra\\persistence\\notificationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{889E46FC-932B-4799-A02E-843910CA73A3}|Notificacoes.Infra\\Notificacoes.Infra.csproj|solutionrelative:notificacoes.infra\\persistence\\notificationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{889E46FC-932B-4799-A02E-843910CA73A3}|Notificacoes.Infra\\Notificacoes.Infra.csproj|c:\\projetos\\pos_tech2\\notificacoesmicroservices\\notificacoesmicroservice\\notificacoes.infra\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{889E46FC-932B-4799-A02E-843910CA73A3}|Notificacoes.Infra\\Notificacoes.Infra.csproj|solutionrelative:notificacoes.infra\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FE3CC3-6228-4328-B400-55CD42A98BD8}|Notificacoes.Domain\\Notificacoes.Domain.csproj|c:\\projetos\\pos_tech2\\notificacoesmicroservices\\notificacoesmicroservice\\notificacoes.domain\\repository\\interfaces\\inotificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31FE3CC3-6228-4328-B400-55CD42A98BD8}|Notificacoes.Domain\\Notificacoes.Domain.csproj|solutionrelative:notificacoes.domain\\repository\\interfaces\\inotificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F125D6D-380E-F754-E4BF-3694C932AFA1}|NotificacoesMicroservice\\NotificacoesMicroservice.API.csproj|c:\\projetos\\pos_tech2\\notificacoesmicroservices\\notificacoesmicroservice\\notificacoesmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F125D6D-380E-F754-E4BF-3694C932AFA1}|NotificacoesMicroservice\\NotificacoesMicroservice.API.csproj|solutionrelative:notificacoesmicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BF0821-005E-4ACF-9245-59E186268E56}|Notificacoes.Application\\Notificacoes.Application.csproj|c:\\projetos\\pos_tech2\\notificacoesmicroservices\\notificacoesmicroservice\\notificacoes.application\\viewmodels\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BF0821-005E-4ACF-9245-59E186268E56}|Notificacoes.Application\\Notificacoes.Application.csproj|solutionrelative:notificacoes.application\\viewmodels\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DTO.cs",
+              "DocumentMoniker": "C:\\Projetos\\POS_TECH2\\NotificacoesMicroservices\\NotificacoesMicroservice\\Notificacoes.Application\\DTO.cs",
+              "RelativeDocumentMoniker": "Notificacoes.Application\\DTO.cs",
+              "ToolTip": "C:\\Projetos\\POS_TECH2\\NotificacoesMicroservices\\NotificacoesMicroservice\\Notificacoes.Application\\DTO.cs",
+              "RelativeToolTip": "Notificacoes.Application\\DTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T01:59:07.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Projetos\\POS_TECH2\\NotificacoesMicroservices\\NotificacoesMicroservice\\Notificacoes.Domain\\Entity\\Notification.cs",
+              "RelativeDocumentMoniker": "Notificacoes.Domain\\Entity\\Notification.cs",
+              "ToolTip": "C:\\Projetos\\POS_TECH2\\NotificacoesMicroservices\\NotificacoesMicroservice\\Notificacoes.Domain\\Entity\\Notification.cs",
+              "RelativeToolTip": "Notificacoes.Domain\\Entity\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T01:37:07.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OutboxMessage.cs",
+              "DocumentMoniker": "C:\\Projetos\\POS_TECH2\\NotificacoesMicroservices\\NotificacoesMicroservice\\Notificacoes.Domain\\Entity\\OutboxMessage.cs",
+              "RelativeDocumentMoniker": "Notificacoes.Domain\\Entity\\OutboxMessage.cs",
+              "ToolTip": "C:\\Projetos\\POS_TECH2\\NotificacoesMicroservices\\NotificacoesMicroservice\\Notificacoes.Domain\\Entity\\OutboxMessage.cs",
+              "RelativeToolTip": "Notificacoes.Domain\\Entity\\OutboxMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T01:37:36.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotificationDbContext.cs",
+              "DocumentMoniker": "C:\\Projetos\\POS_TECH2\\NotificacoesMicroservices\\NotificacoesMicroservice\\Notificacoes.Infra\\Persistence\\NotificationDbContext.cs",
+              "RelativeDocumentMoniker": "Notificacoes.Infra\\Persistence\\NotificationDbContext.cs",
+              "ToolTip": "C:\\Projetos\\POS_TECH2\\NotificacoesMicroservices\\NotificacoesMicroservice\\Notificacoes.Infra\\Persistence\\NotificationDbContext.cs",
+              "RelativeToolTip": "Notificacoes.Infra\\Persistence\\NotificationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T01:34:43.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INotificationRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\POS_TECH2\\NotificacoesMicroservices\\NotificacoesMicroservice\\Notificacoes.Domain\\Repository\\Interfaces\\INotificationRepository.cs",
+              "RelativeDocumentMoniker": "Notificacoes.Domain\\Repository\\Interfaces\\INotificationRepository.cs",
+              "ToolTip": "C:\\Projetos\\POS_TECH2\\NotificacoesMicroservices\\NotificacoesMicroservice\\Notificacoes.Domain\\Repository\\Interfaces\\INotificationRepository.cs",
+              "RelativeToolTip": "Notificacoes.Domain\\Repository\\Interfaces\\INotificationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T01:33:20.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Projetos\\POS_TECH2\\NotificacoesMicroservices\\NotificacoesMicroservice\\Notificacoes.Infra\\Class1.cs",
+              "RelativeDocumentMoniker": "Notificacoes.Infra\\Class1.cs",
+              "ToolTip": "C:\\Projetos\\POS_TECH2\\NotificacoesMicroservices\\NotificacoesMicroservice\\Notificacoes.Infra\\Class1.cs",
+              "RelativeToolTip": "Notificacoes.Infra\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T01:11:28.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\POS_TECH2\\NotificacoesMicroservices\\NotificacoesMicroservice\\NotificacoesMicroservice\\Program.cs",
+              "RelativeDocumentMoniker": "NotificacoesMicroservice\\Program.cs",
+              "ToolTip": "C:\\Projetos\\POS_TECH2\\NotificacoesMicroservices\\NotificacoesMicroservice\\NotificacoesMicroservice\\Program.cs",
+              "RelativeToolTip": "NotificacoesMicroservice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T01:31:11.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Projetos\\POS_TECH2\\NotificacoesMicroservices\\NotificacoesMicroservice\\Notificacoes.Application\\ViewModels\\Class1.cs",
+              "RelativeDocumentMoniker": "Notificacoes.Application\\ViewModels\\Class1.cs",
+              "ToolTip": "C:\\Projetos\\POS_TECH2\\NotificacoesMicroservices\\NotificacoesMicroservice\\Notificacoes.Application\\ViewModels\\Class1.cs",
+              "RelativeToolTip": "Notificacoes.Application\\ViewModels\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T01:11:52.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
