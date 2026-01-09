@@ -7,14 +7,18 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Data\" />
-    <Folder Include="Repository\" />
+    <Compile Remove="Data\**" />
+    <Compile Remove="Repository\**" />
+    <EmbeddedResource Remove="Data\**" />
+    <EmbeddedResource Remove="Repository\**" />
+    <None Remove="Data\**" />
+    <None Remove="Repository\**" />
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.Data.Sqlite.Core" Version="8.0.22" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.22" />
     <PackageReference Include="Microsoft.Extensions.Hosting" Version="10.0.1" />
-    <PackageReference Include="MongoDB.EntityFrameworkCore" Version="9.0.3" />
   </ItemGroup>
 
   <ItemGroup>

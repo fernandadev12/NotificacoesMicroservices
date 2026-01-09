@@ -1,6 +1,0 @@
-<Solution>
-  <Project Path="Notificacoes.Application/Notificacoes.Application.csproj" Id="d9bf0821-005e-4acf-9245-59e186268e56" />
-  <Project Path="Notificacoes.Domain/Notificacoes.Domain.csproj" Id="31fe3cc3-6228-4328-b400-55cd42a98bd8" />
-  <Project Path="Notificacoes.Infra/Notificacoes.Infra.csproj" Id="889e46fc-932b-4799-a02e-843910ca73a3" />
-  <Project Path="NotificacoesMicroservice/NotificacoesMicroservice.API.csproj" />
-</Solution>
